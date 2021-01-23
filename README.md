@@ -1,1 +1,1 @@
-# s5610-s21-client-angular-jimccis1105
+# s5610-s21-server-java-jimccis1105
